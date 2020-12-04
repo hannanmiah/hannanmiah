@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Laravel and VueJs Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 💼 &nbsp; Fullstack web developer and also learning android developement.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -14,9 +14,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; PHP | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap | Tailwind Css
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind Css
 - 🛢 &nbsp; Laravel | Vue 
-- 🔧 &nbsp; Android Studio | Visual Studio code | PHPStorm | Git
+- 🔧 &nbsp; Visual Studio code | PHPStorm | Git
 - 🖥 &nbsp; Figma | Illustrator | Photoshop 
 
 <br>
