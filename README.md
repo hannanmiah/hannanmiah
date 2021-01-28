@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; PHP | Java | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind Css
-- 🛢 &nbsp; Laravel | Vue 
+- 🛢 &nbsp; Laravel | Vue | Livewire
 - 🔧 &nbsp; Visual Studio code | PHPStorm | Git
 - 🖥 &nbsp; Figma | Illustrator | Photoshop 
 
