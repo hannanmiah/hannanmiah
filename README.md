@@ -8,14 +8,13 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Fullstack web developer and also learning android developement.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; PHP | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind Css
-- 🛢 &nbsp; Laravel | Vue | Livewire
+- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind Css
+- 🛢 &nbsp; Laravel | Vue | NuxtJS
 - 🔧 &nbsp; Visual Studio code | PHPStorm | Git
 - 🖥 &nbsp; Figma | Illustrator | Photoshop 
 
