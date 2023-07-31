@@ -7,16 +7,15 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Fullstack web developer and also learning android developement.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🌱 &nbsp; Enthusiast in devOps and cloud computing .
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind Css
+- 💻 &nbsp; PHP | Javascript  
+- 🌐 &nbsp; HTML | CSS | JavaScript
 - 🛢 &nbsp; Laravel | Vue | NuxtJS
 - 🔧 &nbsp; Visual Studio code | PHPStorm | Git
-- 🖥 &nbsp; Figma | Illustrator | Photoshop 
+- 🖥 &nbsp; Figma | Adobe Illustrator | Photoshop 
 
 <br>
 
